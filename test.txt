@@ -1,0 +1,1 @@
+This programming language depends a little to much on type relation between different data.
